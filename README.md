@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kashif Ali
 
-💻 Full Stack Java Developer experienced in building end-to-end, scalable web applications using **Spring Boot** and **React (Vite)**.  
-Specialized in RESTful API development, secure authentication & authorization, database-driven architectures, and production-grade deployments.
+💻 Full Stack Java Developer with hands-on experience in designing, building, deploying, and maintaining scalable web applications using **Spring Boot** and **React (Vite)**.  
+Focused on developing secure RESTful APIs, implementing robust authentication, managing database-driven systems, and delivering production-ready solutions.
 
 ---
 
