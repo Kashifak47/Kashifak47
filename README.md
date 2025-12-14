@@ -51,7 +51,8 @@ Developed a **Point of Sale (POS) Billing System** simulating real-world retail 
 - MySQL  
 - Razorpay Payment Gateway  
 
-🔗 **Repository**: https://github.com/Kashifak47/pos-frontend 
+🔗 **Repository**: https://github.com/Kashifak47/pos-frontend
+
 🌐 **Live Demo**: https://pos-by-kashif.vercel.app
 
 ---
