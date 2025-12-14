@@ -18,12 +18,14 @@ Strong understanding of backend systems, frontend integration, authentication & 
 
 ---
 
-### 🛠 Technical Skills
+## 🛠 Technical Skills
 
-**Backend:** Java · Spring Boot · Spring Security · JWT · Hibernate · JPA · REST APIs  
-**Frontend:** React (Vite) · JavaScript (ES6+) · Tailwind CSS · Bootstrap · React Router · Axios  
-**Database:** MySQL · PostgreSQL · SQL  
-**Tools:** Git · GitHub · Docker · Vercel · Render · Postman · VS Code
+| Category | Technologies |
+|---------|-------------|
+| **Backend** | Java · Spring Boot · Spring Security · JWT · Hibernate · JPA · REST APIs |
+| **Frontend** | React (Vite) · JavaScript (ES6+) · Tailwind CSS · Bootstrap · React Router · Axios |
+| **Database** | MySQL · PostgreSQL · SQL · Schema Design |
+| **DevOps & Tools** | Git · GitHub · Docker · Vercel · Render · Postman · VS Code |
 
 ---
 
